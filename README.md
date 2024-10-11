@@ -1,4 +1,4 @@
-👋 Hi, I’m @shihabsarker03
+👋 Hi, I’m @shihab-sarker
 👀 I’m interested in data science
 🌱 I’m currently learning statistical programming
 💞️ I’m looking to collaborate on research and projects
